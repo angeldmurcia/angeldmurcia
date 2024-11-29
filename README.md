@@ -3,4 +3,4 @@
 - [x] Agregar avatar
 - [x] Meter repositorios de Aplicaciones Web
 - [x] Meter repositorios de Servicios en Red
-- [ ] Editar los README.md
+- [x] Editar los README.md
